@@ -1,18 +1,18 @@
 {
     "manifest_version": 2,
-    "name": "Woodpecker",
+    "name": "Flameback",
     "version": "1.0",
     "description": "Pecking away at back web design, such as removing onpaste events from elements.",
     "icons": {
-        "48": "icons/woodpecker-48.png",
-        "96": "icons/woodpecker-96.png"
+        "48": "icons/flameback-48.png",
+        "96": "icons/flameback-96.png"
     },
     "browser_action": {
         "default_icon": {
-          "19": "icons/woodpecker-19.png",
-          "38": "icons/woodpecker-38.png"
+          "19": "icons/flameback-19.png",
+          "38": "icons/flameback-38.png"
         },
-        "default_title": "Woodpecker"
+        "default_title": "flameback"
     },
     "background": {
         "scripts": ["js/background-button.js"]

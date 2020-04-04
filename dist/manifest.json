@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Flameback",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Pecking away at back web design, such as removing onpaste events from elements.",
     "icons": {
         "48": "icons/flameback-48.png",

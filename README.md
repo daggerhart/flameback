@@ -1,6 +1,8 @@
-# Woodpecker
+# Flameback
 
-Browser extension that pecks away at bad web development practices. 
+Browser extension that pecks away at web anti-patterns. 
+
+![woodpecker icon](dist/icons/woodpecker-96.png)
 
 ## Features
 

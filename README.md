@@ -2,7 +2,7 @@
 
 Browser extension that pecks away at web anti-patterns. 
 
-![woodpecker icon](dist/icons/woodpecker-96.png)
+![flameback icon](dist/icons/flameback-96.png)
 
 ## Features
 
